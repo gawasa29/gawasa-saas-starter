@@ -36,7 +36,13 @@ Update environment variable values:
 Run migrations
 
 ```bash
-yarn prisma:migrate:dev
+npm run prisma:migrate:dev
+```
+
+Run studio
+
+```bash
+npm run prisma:studio
 ```
 
 Run the development server:
